@@ -1,12 +1,9 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "email": "joannayuhas@gmail.com",
-      "password": "password",
-      "firstName": "Joanna",
-      "favorites": [],
-      "completed":[]
-    }
+  "favorites": [
+   
+  ],
+
+  "my-drinks": [
+    
   ]
 }
